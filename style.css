@@ -7,21 +7,21 @@
 
 @font-face {
     font-family: "huglove"; 
-    src: url("{{ https://wren-nest.github.io/creature-cabal/ }/assetss/fonts/Huglove.otf") format("opentype");
+    src: url("../fonts/Huglove.otf") format("opentype");
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: "spaceton"; 
-    src: url("https://wren-nest.github.io/creature-cabal/fonts/Spaceton.otf") format("opentype");
+    src: url("../fonts/Spaceton.otf") format("opentype");
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: "super-dessert"; 
-    src: url("https://wren-nest.github.io/creature-cabal/fonts/Super_Dessert.ttf") format("truetype");
+    src: url("../fonts/Super_Dessert.ttf") format("truetype");
     font-weight: 100;
     font-style: normal;
 }
