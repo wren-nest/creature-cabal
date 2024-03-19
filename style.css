@@ -27,7 +27,7 @@
 }
 
 .curtainside {
-    float: left;
-    width:192px;height:800px;
-    background-image: url("https://wren-nest.github.io/creature-cabal/images/curtainside.png");
+    width: 192px;
+  height: 100%;
+  float: left;
 }
