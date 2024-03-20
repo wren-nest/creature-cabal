@@ -39,24 +39,36 @@
 
 a:link {
   color: #FFBE00;
+font-size:40px;
+    font-family: super-dessert;
+    text-align: center
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
   color: #FFBE00;
+    font-size:40px;
+    font-family: super-dessert;
+    text-align: center
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
   color: #FF6517;
+    font-size:40px;
+    font-family: super-dessert;
+    text-align: center
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
   color: #FF6517;
+    font-size:40px;
+    font-family: super-dessert;
+    text-align: center
   background-color: transparent;
   text-decoration: underline;
 }
