@@ -27,9 +27,9 @@
 }
 
 #divoverlay {
-  background: white;
-  opacity: 0.9;
-  color: darkslateblue;
+  background: #ffffff;
+  opacity: 0.7;
+  color: #30115c;
   padding: 5px;
   height: 96%;
   width: 80%;
