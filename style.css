@@ -26,10 +26,12 @@
     font-style: normal;
 }
 
-.curtainside {
-    width: 192px;
-    height: 100%;
-    float: left;
-    color: #ffffff;
-    font-family: super-dessert;
+#divoverlay {
+  background: white;
+  opacity: 0.9;
+  color: darkslateblue;
+  padding: 5px;
+  height: 96%;
+  width: 80%;
+  margin: auto;
 }
