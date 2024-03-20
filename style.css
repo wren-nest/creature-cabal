@@ -27,8 +27,8 @@
 }
 
 #divoverlay {
-    background-color: #30115c;
-    background-image: linear-gradient(#30115c;, #240f4f);
+    background: #30115c;
+    background-image: linear-gradient(#30115c;, red);
     color: #ffffff;
     opacity: 1;
     padding: 5px;
