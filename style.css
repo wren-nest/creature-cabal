@@ -36,3 +36,27 @@
     width: 80%;
     margin: auto;
 }
+
+a:link {
+  color: #FFBE00;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #FFBE00;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF6517;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #FF6517;
+  background-color: transparent;
+  text-decoration: underline;
+}
